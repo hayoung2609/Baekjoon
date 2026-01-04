@@ -24,9 +24,6 @@ int main(){
     return 0;
 }
 */
-#include <iostream>
-
-using namespace std;
 
 int main() {
     // C++ 입출력 속도 가속 (알고리즘 문제 풀이 필수 테크닉)
